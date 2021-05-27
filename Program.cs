@@ -13,6 +13,7 @@ namespace Classes
             CompanyCo.AddEmployee(Bre);
             CompanyCo.AddEmployee(Autumn);
             CompanyCo.AddEmployee(Meg);
+            CompanyCo.ListEmployee();
         }
     }
 }
